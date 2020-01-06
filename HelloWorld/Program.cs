@@ -8,7 +8,7 @@ namespace HelloWorld
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Console.WriteLine("Welcome");
 
